@@ -19,3 +19,9 @@ with README.md
 
 Enjoy!
 	Sam Lantinga				(slouken@libsdl.org)
+	
+	
+	
+sdl源码编译
+已经编译为动态库
+
